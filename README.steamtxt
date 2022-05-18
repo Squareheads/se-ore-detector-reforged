@@ -1,3 +1,16 @@
+This is a fork of <https://steamcommunity.com/sharedfiles/filedetails/?id=2790047923> with changes to max range.
+
+Racher  [author] 14 May @ 3:56pm 
+@Junrall I prepped the code for block size dependant configable range limit
+however I don't want to write and maintain an editable config system at this time.
+
+You can modify the mod and use your own version of it with your range limits:
+(copy mod folder from Steam/steamapps/workshop/content to Roaming/SpaceEngineers/Mods
+and modify Data/Scripts/OreDetectorReforged/Config.cs)
+
+(https://steamcommunity.com/sharedfiles/filedetails/comments/2790047923)
+
+
 [b] Features [/b]
 [list]
   [*]Shows ores with gps signals
