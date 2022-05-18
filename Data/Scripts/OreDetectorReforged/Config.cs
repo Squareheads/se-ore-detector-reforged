@@ -5,8 +5,8 @@
         public byte voxelContentMinPlanet = 96;
         public byte voxelContentMinNotPlanet = 96;
         public int biomeRepeatDivisor = 25;
-        public float maxRangeSmall = 1e9f;
-        public float maxRangeLarge = 1e9f;
+        public float maxRangeSmall = 5000;
+        public float maxRangeLarge = 20000;
         public int maxCount = 100;
     }
 }
