@@ -1,5 +1,16 @@
 # Changelog
 
+This is a fork of <https://steamcommunity.com/sharedfiles/filedetails/?id=2790047923> with changes to max range. Original author explicitly allows this as per the following quote:
+
+Racher  [author] 14 May @ 3:56pm 
+@Junrall I prepped the code for block size dependant configable range limit
+however I don't want to write and maintain an editable config system at this time.
+
+You can modify the mod and use your own version of it with your range limits:
+(copy mod folder from Steam/steamapps/workshop/content to Roaming/SpaceEngineers/Mods
+and modify Data/Scripts/OreDetectorReforged/Config.cs)
+
+
 ## [2.0.4] - 2022-05-16
 ### Fixed
 - Skip invalid material on (Planet 26)
